@@ -7,6 +7,7 @@ C:\Users\visha\eclipse-workspace\OpencartV121\src\test\java\testBase\BaseClass.j
 C:\Users\visha\eclipse-workspace\OpencartV121\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\visha\eclipse-workspace\OpencartV121\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\visha\eclipse-workspace\OpencartV121\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\visha\eclipse-workspace\OpencartV121\src\test\java\testCases\TC_004_Search.java
 C:\Users\visha\eclipse-workspace\OpencartV121\src\test\java\utilities\DataProviders.java
 C:\Users\visha\eclipse-workspace\OpencartV121\src\test\java\utilities\ExcelUtility.java
 C:\Users\visha\eclipse-workspace\OpencartV121\src\test\java\utilities\ExtentReportManager.java
