@@ -6,9 +6,9 @@
 
 	<groups>
 		<run>
-			<include name="Master"></include>
+			<!--<include name="Master"></include> -->
 			<!-- <include name="Sanity"></include>  -->
-			<!-- <include name="Regression"></include>  -->
+			 <include name="Regression"></include> 
 			
 			
 			<!-- <exclude name=""></exclude>  -->

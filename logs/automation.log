@@ -641,3 +641,346 @@ Session ID: 7114ca9a1f2d2f2d62608766d13db084
 01:59:28.136 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
 01:59:30.705 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
 01:59:31.948 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+02:50:12.387 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+02:50:52.929 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+02:50:56.339 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:50:56.442 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+02:50:56.914 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+02:50:56.917 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+02:50:58.367 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+02:50:58.407 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:51:01.246 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+02:51:02.762 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+02:51:06.007 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+02:51:06.092 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+02:51:06.597 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+02:51:06.597 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+02:51:07.974 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+02:51:08.015 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+02:54:58.643 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:50:44.017 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:51:00.710 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+11:43:52.970 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+11:47:22.052 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+11:48:10.150 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+11:48:13.262 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:48:13.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+11:48:14.011 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+11:48:14.013 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:48:15.155 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:48:15.183 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:48:18.433 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+11:48:19.631 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+11:48:23.882 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:48:24.007 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+11:48:24.858 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+11:48:24.859 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:48:26.207 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:48:26.261 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:48:46.130 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+11:48:49.666 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:48:49.756 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+11:48:50.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+11:48:50.355 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:48:51.516 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:48:51.546 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:48:54.573 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+11:48:55.935 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+11:49:01.265 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:49:01.339 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+11:49:02.078 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+11:49:02.079 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:49:03.822 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:49:03.851 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:40:04.519 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:40:11.075 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:40:11.180 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+22:40:11.617 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+22:40:11.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+22:40:13.029 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+22:40:13.083 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:40:16.140 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:40:17.821 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+22:40:21.432 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:40:21.502 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+22:40:21.911 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+22:40:21.911 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+22:40:23.348 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+22:40:23.378 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:44:08.570 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:44:13.245 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:44:13.343 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+22:44:14.470 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+22:44:14.473 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+22:44:15.915 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+22:44:15.947 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:44:20.264 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:44:22.089 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+22:44:25.892 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:44:26.037 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+22:44:26.695 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+22:44:26.695 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+22:44:28.011 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+22:44:28.047 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:48:39.077 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:48:42.296 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:48:42.405 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+22:48:42.864 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+22:48:42.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+22:48:43.345 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+22:48:44.084 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:48:48.345 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:48:49.730 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+22:48:53.725 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:48:53.798 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+22:48:54.281 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+22:48:54.281 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+22:48:55.522 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+22:48:55.552 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:49:34.615 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:49:37.883 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:49:50.008 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:50:04.806 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:50:46.355 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:50:49.308 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:51:03.853 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:51:17.756 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:51:46.242 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:51:49.415 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:52:03.827 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:52:20.756 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:52:38.022 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:52:55.598 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:56:20.303 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:56:24.266 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:56:24.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+22:56:24.769 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+22:56:24.771 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+22:56:25.160 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+22:56:25.849 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:56:28.807 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:56:29.992 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+22:56:39.986 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:56:40.051 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+22:56:41.858 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+22:56:41.860 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+22:56:42.285 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+22:56:43.475 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:19:23.745 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:19:26.609 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:19:26.868 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:19:27.170 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:19:27.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:19:28.254 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:19:28.283 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:19:30.138 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:19:31.665 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:19:35.071 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:19:35.330 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:19:35.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:19:35.620 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:19:36.093 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:19:36.862 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:20:11.642 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:20:14.149 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:20:14.451 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:20:14.754 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:20:14.755 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:20:15.842 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:20:15.874 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:20:17.837 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:20:19.105 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:20:22.218 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:20:22.416 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:20:22.715 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:20:22.716 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:20:23.141 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:20:23.832 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:21:30.876 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:21:33.268 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:21:33.556 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:21:33.846 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:21:33.848 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:21:34.243 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:21:34.915 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:21:36.809 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:21:38.108 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:21:40.934 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:21:41.206 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:21:41.489 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:21:41.490 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:21:42.520 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:21:42.567 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:24:29.642 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:24:32.056 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:24:32.331 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:24:32.735 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:24:32.737 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:24:33.153 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:24:33.992 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:24:36.189 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:24:37.430 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:24:40.330 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:24:40.603 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:24:40.894 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:24:40.895 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:24:42.328 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:24:42.374 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:29:33.913 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:29:36.590 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:29:36.846 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:29:37.135 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:29:37.137 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:29:38.218 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:29:38.255 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:29:40.153 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:29:41.617 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:29:44.584 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:29:44.848 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:29:45.154 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:29:45.155 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:29:46.548 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:29:46.581 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:31:17.990 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:31:20.371 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:31:20.632 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:31:20.946 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:31:20.947 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:31:22.016 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:31:22.045 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:31:23.949 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:31:25.194 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:31:28.124 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:31:28.382 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:31:28.669 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:31:28.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:31:29.661 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:31:29.691 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:32:21.316 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+10:32:23.929 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:32:24.148 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:32:24.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:32:24.501 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:32:25.492 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:32:25.524 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:32:27.414 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+10:32:28.756 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+10:32:31.634 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:32:31.909 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:32:32.196 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:32:32.197 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+10:32:33.191 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+10:32:33.221 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:41:04.422 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+18:41:07.778 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:41:08.061 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:41:08.931 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:41:08.932 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:41:10.795 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+18:41:10.824 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:41:12.588 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:41:13.856 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+18:41:17.000 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:41:17.260 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:41:17.561 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:41:17.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:41:18.660 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+18:41:18.687 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:43:03.849 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:43:03.969 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:43:04.293 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:43:04.295 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:43:05.366 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+18:43:05.395 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:47:51.598 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:47:51.703 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:47:52.045 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:47:52.046 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:47:53.080 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+18:47:53.108 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:48:48.504 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:48:48.614 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:48:48.942 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:48:48.944 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:48:50.232 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+18:48:50.261 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:49:13.265 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:49:13.377 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:49:13.848 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:49:13.850 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:49:14.784 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+18:49:14.804 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:51:20.349 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:51:20.349 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:51:20.349 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:51:20.464 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:51:20.522 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:51:20.581 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:51:20.887 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:51:20.889 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:51:56.702 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:51:56.702 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:51:56.974 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:51:57.031 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:51:58.564 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:51:58.672 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:51:58.973 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:51:58.975 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:51:59.944 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+18:51:59.961 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:52:50.748 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:52:50.748 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:52:50.922 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:52:50.969 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:52:52.228 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:52:52.315 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:52:52.640 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:52:52.642 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+18:52:53.575 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+18:52:53.595 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:32:22.360 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:35:07.984 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:35:08.260 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+19:35:08.579 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+19:35:08.581 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+19:35:09.644 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+19:35:09.684 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:39:57.735 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:41:07.466 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+19:41:10.025 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:41:23.155 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:50:22.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:55:30.627 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:55:40.685 [main] ERROR testCases.TC001_AccountRegistrationTest - Exception occurred during test: element not interactable
+  (Session info: chrome=138.0.7204.158)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5579f38871da035fbb853a13a8d2d06c, clickElement {id=f.74762FEC39D8CE32FAB430A8E41197B3.d.FE6D87D8473BDA35B0A2DC4340E2B3AC.e.45}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\visha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62845}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62845/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5579f38871da035fbb853a13a8d2d06c)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 5579f38871da035fbb853a13a8d2d06c
+19:56:18.202 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:56:18.492 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+19:56:18.844 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+19:56:18.846 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+19:56:19.925 [main] INFO  testCases.TC001_AccountRegistrationTest - Waiting for confirmation message...
+19:56:19.975 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+19:56:19.976 [main] INFO  testCases.TC001_AccountRegistrationTest - Account registration successful.
+19:56:19.977 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+23:24:58.995 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+23:24:59.276 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+23:24:59.571 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+23:24:59.574 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+23:25:00.608 [main] INFO  testCases.TC001_AccountRegistrationTest - Waiting for confirmation message...
+23:25:00.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+23:25:00.671 [main] INFO  testCases.TC001_AccountRegistrationTest - Account registration successful.
+23:25:00.673 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+00:15:05.991 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+00:15:06.261 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+00:15:06.578 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+00:15:06.580 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+00:15:07.583 [main] INFO  testCases.TC001_AccountRegistrationTest - Waiting for confirmation message...
+00:15:07.633 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+00:15:07.633 [main] INFO  testCases.TC001_AccountRegistrationTest - Account registration successful.
+00:15:07.635 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
